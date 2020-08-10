@@ -17,11 +17,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fiUNieVshOn3gpHPDpawa91j1u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../netflix-clone" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -55,7 +56,7 @@
       <workItem from="1596700372301" duration="10493000" />
       <workItem from="1596720238126" duration="11845000" />
       <workItem from="1596783187932" duration="1410000" />
-      <workItem from="1597062011553" duration="7148000" />
+      <workItem from="1597062011553" duration="10974000" />
     </task>
     <servers />
   </component>
@@ -78,6 +79,7 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
     </ignored-roots>
   </component>
 </project>
